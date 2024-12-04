@@ -32,10 +32,10 @@
     <module>ui.content</module>
     <module>it.tests</module>
     <module>dispatcher</module>
-    <module>ui.tests</module>
-    <!--<module>../mysite2/all</module> -->
+    <!--<module>ui.tests</module>
+    <module>../mysite2/all</module> -->
     <module>project-a</module>
-    <module>project-c</module>
+    <module>project-d</module>
   </modules>
   <properties>
     <aem.host>localhost</aem.host>
