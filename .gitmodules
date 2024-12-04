@@ -2,7 +2,7 @@
 	path = project-a
 	url = https://github.com/vineetkaushikmca/AEM-WKND
 	branch = main
-[submodule "project-c"]
-	path = project-c
-	url = https://github.com/vineetkaushikmca/aem-guides-wknd
+[submodule "project-d"]
+	path = project-d
+	url = https://github.com/vineetkaushikmca/site2
 	branch = main
