@@ -33,7 +33,9 @@
     <module>it.tests</module>
     <module>dispatcher</module>
     <module>ui.tests</module>
-    <module>../mysite2/all</module>
+    <!--<module>../mysite2/all</module> -->
+    <module>project-a</module>
+    <module>project-c</module>
   </modules>
   <properties>
     <aem.host>localhost</aem.host>
